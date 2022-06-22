@@ -374,11 +374,12 @@ body.light-mode:before {
 
 .img-content {
     font-weight: 500;
-    font-size: var(--text-size-large);
+    font-size: 39px;
     display: flex;
     align-items: center;
-    color: white;
+    color: #ffce45;
     margin: 0;
+    font-family: cursive;
 }
 
 .img-content .img {
